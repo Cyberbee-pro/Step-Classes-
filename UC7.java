@@ -41,7 +41,7 @@ public class UC7 {
             "**     **",
             "**     **",
             " **   ** ",
-            "   *** "
+            "   ***   "
         };
 
         String[] pPattern = {
