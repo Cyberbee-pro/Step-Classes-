@@ -22,6 +22,4 @@ public static final Scanner sc = new Scanner(System.in);
         System.out.println(String.join(" ", "   ** ", "        ** ", "     ** ","          ***** "));
 
     }
-
-
 }
