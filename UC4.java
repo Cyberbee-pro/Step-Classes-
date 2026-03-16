@@ -13,8 +13,7 @@ public class UC4 {
         ("     **          **       **             ***** ")
         };
 
-        // Output traversal using an en
-        // hanced for-loop
+        
         for (String line : banner) {
             System.out.println(line);
         }
