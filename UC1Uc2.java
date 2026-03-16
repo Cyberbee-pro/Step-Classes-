@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 
 
-public class Step1 {
+public class UC1Uc2 {
     
 public static final Scanner sc = new Scanner(System.in);
 
